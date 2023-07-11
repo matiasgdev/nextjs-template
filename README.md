@@ -1,7 +1,3 @@
-# SOCIO FRONTEND
-
-A webapp service for FDV/Hunters
-
 ## Requirements
 
 - node 18.x.x
