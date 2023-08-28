@@ -1,5 +1,5 @@
 import {render, screen} from '@testing-library/react'
-import Home from '../pages'
+import Home from '../../app/page'
 
 describe('home', () => {
   test('should render title', () => {
